@@ -6,4 +6,4 @@ Conducting exploratory data analysis
 Visualizing the data
 Preparing the data for modeling
 Building and training a simple deep learning model
-Evaluating the trained model
+Evaluating the trained model.
